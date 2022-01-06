@@ -9,8 +9,7 @@
             "type": "python",
             "request": "launch",
             "program": "${file}",
-            "console": "integratedTerminal",
-            "args": ["0.745197", "989", "1.96"]
+            "console": "integratedTerminal"
         }
     ]
 }
