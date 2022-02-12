@@ -4,6 +4,11 @@ DOE (Design of Experiments)
 References:
 - https://pythonhosted.org/pyDOE/
 - https://en.wikipedia.org/wiki/Box%E2%80%93Behnken_design
+
+TODO:
+- Fix Box Behnken: float issue (probably in source code)
+- Fix composite design: float issue (probably in source code)
+- Fix randomized design: probably in source code
 """
 
 import sys
